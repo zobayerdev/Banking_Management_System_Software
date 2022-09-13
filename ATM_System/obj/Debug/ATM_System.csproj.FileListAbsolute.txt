@@ -1,0 +1,290 @@
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\ATM_System.exe.config
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\ATM_System.exe
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\ATM_System.pdb
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.csproj.AssemblyReference.cache
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.csproj.SuggestedBindingRedirects.cache
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Properties.Resources.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.csproj.GenerateResource.cache
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.csproj.CoreCompileInputs.cache
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.exe
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.pdb
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Front_Page.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Reg.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Login.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.credits.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Reg_Bank.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Reg_Card.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Loader.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.locker.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.admin_login.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.captcha.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\Google.Protobuf.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\MySql.Data.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\System.Buffers.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\System.Memory.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\System.Numerics.Vectors.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\ZstdNet.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\Google.Protobuf.pdb
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\Google.Protobuf.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\K4os.Compression.LZ4.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\K4os.Hash.xxHash.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\MySql.Data.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\System.Buffers.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\System.Memory.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\System.Numerics.Vectors.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.admin_panel.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.csproj.CopyComplete
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.unlock_admin.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.unlock_login.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.locker_admin.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\itextsharp.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\itextsharp.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.card_show.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.bank_ac.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.withdraw.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\Guna.UI2.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.original_main.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.trasnfer.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.update_pin.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\QRCoder.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\System.Drawing.Common.dll
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\System.Drawing.Common.xml
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Block_Bank_AC.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Block.Unblock_Bank.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Unblock.block_card.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Unblock.unblock_card.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Data_Grids.all_transfer.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Data_Grids.all_withdraws.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Data_Grids.registered_bank.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Data_Grids.registered_card.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.admin.crypto_edit.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.crypto_buy.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.bill_pay.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.payment.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.admin.bill_edit.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.add_money.bkash.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.add.add_money.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.add.nagad.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.add.rocket.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.add.upay.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.add.card_use.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.add.history_add.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.add.otp.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.admin.added_history.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.donation.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.end.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.admin.Data_Grids.donation_history.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.admin.Data_Grids.payment_history.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.updater.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.Main_Page.details.resources
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\ATM_System.exe.manifest
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\bin\Debug\ATM_System.application
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.exe.manifest
+D:\Varsity\6th Semester\CODES FOR VSCODE\C#\ATM_System\ATM_System\obj\Debug\ATM_System.application
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\ATM_System.exe.config
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\ATM_System.exe.manifest
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\ATM_System.application
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\ATM_System.exe
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\ATM_System.pdb
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\Google.Protobuf.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\Guna.UI2.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\itextsharp.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\MySql.Data.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\QRCoder.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\System.Buffers.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\System.Drawing.Common.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\System.Memory.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\System.Numerics.Vectors.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\ZstdNet.dll
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\Google.Protobuf.pdb
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\Google.Protobuf.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\itextsharp.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\K4os.Compression.LZ4.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\K4os.Hash.xxHash.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\MySql.Data.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\System.Buffers.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\System.Drawing.Common.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\System.Memory.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\System.Numerics.Vectors.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.csproj.AssemblyReference.cache
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.csproj.SuggestedBindingRedirects.cache
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.admin.added_history.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.admin_login.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.admin_panel.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.admin.bill_edit.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.captcha.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.admin.crypto_edit.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Block_Bank_AC.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Data_Grids.all_transfer.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Data_Grids.all_withdraws.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.admin.Data_Grids.donation_history.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.admin.Data_Grids.payment_history.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Data_Grids.registered_bank.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Data_Grids.registered_card.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.end.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.add.add_money.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.add_money.bkash.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.add.card_use.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.add.history_add.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.add.nagad.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.add.otp.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.add.rocket.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.add.upay.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.bill_pay.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.crypto_buy.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.details.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.donation.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.payment.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Block.Unblock_Bank.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.trasnfer.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.original_main.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Main_Page.updater.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.bank_ac.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.card_show.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.credits.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Loader.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.locker.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.locker_admin.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Login.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Front_Page.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Properties.Resources.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Reg.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Reg_Card.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Reg_Bank.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.unlock_admin.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.unlock_login.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.withdraw.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.update_pin.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Unblock.block_card.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.Unblock.unblock_card.resources
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.csproj.GenerateResource.cache
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.csproj.CoreCompileInputs.cache
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.exe.manifest
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.application
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.csproj.CopyComplete
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.exe
+D:\Varsity\Projects\ATM-System-CSharp-main\ATM_System\obj\Debug\ATM_System.pdb
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\ATM_System.exe.config
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\ATM_System.exe.manifest
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\ATM_System.application
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\ATM_System.exe
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\ATM_System.pdb
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\Google.Protobuf.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\Guna.UI2.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\itextsharp.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\MySql.Data.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\QRCoder.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Buffers.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Drawing.Common.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Memory.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Numerics.Vectors.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\ZstdNet.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\Google.Protobuf.pdb
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\Google.Protobuf.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\itextsharp.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\K4os.Compression.LZ4.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\K4os.Hash.xxHash.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\MySql.Data.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Buffers.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Drawing.Common.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Memory.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Numerics.Vectors.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.csproj.AssemblyReference.cache
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.csproj.SuggestedBindingRedirects.cache
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.admin.added_history.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.admin_login.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.admin_panel.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.admin.bill_edit.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.captcha.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.admin.crypto_edit.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Block_Bank_AC.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Data_Grids.all_transfer.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Data_Grids.all_withdraws.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.admin.Data_Grids.donation_history.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.admin.Data_Grids.payment_history.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Data_Grids.registered_bank.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Data_Grids.registered_card.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.end.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.add.add_money.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.add_money.bkash.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.add.card_use.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.add.history_add.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.add.nagad.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.add.otp.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.add.rocket.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.add.upay.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.bill_pay.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.details.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.donation.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.payment.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Block.Unblock_Bank.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.trasnfer.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.original_main.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.updater.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.bank_ac.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.card_show.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.credits.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Loader.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.locker.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.locker_admin.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Login.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Front_Page.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Properties.Resources.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Reg.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Reg_Card.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Reg_Bank.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.unlock_admin.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.unlock_login.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.withdraw.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.update_pin.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Unblock.block_card.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Unblock.unblock_card.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.csproj.GenerateResource.cache
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.csproj.CoreCompileInputs.cache
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.exe.manifest
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.application
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.csproj.CopyComplete
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.exe
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.pdb
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.contact.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\ConcurrentCollections.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\DotNetTor.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\HBitcoin.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\NBitcoin.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\Newtonsoft.Json.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\QBitNinja.Client.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\ConcurrentCollections.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\NBitcoin.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\Newtonsoft.Json.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.create_crypto_wallet.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.Main_Page.crypto_send.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.admin.Data_Grids.wallet_history.resources
+D:\Varsity\Projects\ATM System C#\ATM_System\obj\Debug\ATM_System.admin.Data_Grids.crypto_send_history.resources
